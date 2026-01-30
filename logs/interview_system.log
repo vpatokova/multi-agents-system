@@ -4,3 +4,5 @@
 2026-01-30 14:48:07 | INFO     | src.utils.logger:setup_logging - Логгирование настроено. Уровень: INFO
 2026-01-30 14:51:06 | INFO     | src.utils.logger:setup_logging - Логгирование настроено. Уровень: INFO
 2026-01-30 15:11:23 | INFO     | src.utils.logger:setup_logging - Логгирование настроено. Уровень: INFO
+2026-01-30 22:27:20 | INFO     | src.utils.logger:setup_logging - Логгирование настроено. Уровень: INFO
+2026-01-30 22:29:57 | INFO     | src.utils.logger:setup_logging - Логгирование настроено. Уровень: INFO
