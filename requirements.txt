@@ -1,0 +1,28 @@
+# Основные зависимости
+# python>=3.9
+
+# LLM и AI фреймворки
+langchain>=0.1.0
+langchain-openai
+langchain-mistralai==0.2.12
+mistralai
+langchain.schema
+langgraph>=0.0.20
+crewai>=0.28.0  # Альтернатива LangGraph
+
+# Работа с OpenAI/другими провайдерами
+openai>=1.0.0
+anthropic>=0.25.0  # если используете Claude
+
+# Утилиты
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Логгирование и JSON
+loguru>=0.7.0  # или используйте встроенный logging
+
+# Дополнительно (опционально)
+fastapi>=0.104.0  # если будете делать веб-интерфейс
+uvicorn>=0.24.0
+streamlit>=1.28.0
