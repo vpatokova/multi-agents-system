@@ -7,12 +7,14 @@
 - Доступ к **Mistral API** (API-ключ)
 
 ## **Инструкция по запуску**
+```bash
 pip install -r requirements.txt
 python -m venv venv
 source venv/bin/activate      # Linux / macOS
 venv\Scripts\activate         # Windows
 MISTRAL_API_KEY=ваш_api_ключ
 python src/run_interview.py
+```
 
 
 ---
